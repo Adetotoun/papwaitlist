@@ -28,13 +28,14 @@
   
   .content h1 {
     font-size: 2.5rem;
-    color: #AA7B08; /* Highlighted text */
+    color: #173803; /* Highlighted text */
     margin-bottom: 1rem;
   }
   
   .content p {
     font-size: 1.2rem;
     margin-bottom: 2rem;
+    color: #173803;
   }
   
   .signup-form input {
